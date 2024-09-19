@@ -34,7 +34,7 @@ CUDA_VISIBLE_DEVICES=0,1 python refine.py --k 40
 @article{chen2024magicore,
   title={MAgICoRe: A Multi-Agent Coarse-to-Fine Refinement Framework for Reasoning},
   author={Chen, Justin Chih-Yao and Prasad, Archiki and Saha, Swarnadeep and Stengel-Eskin, Elias and Bansal, Mohit},
-  journal={arXiv preprint arXiv:xxxxxxxxxxxxxxx},
+  journal={arXiv preprint arXiv:2409.12147},
   year={2024}
 }
 ```
